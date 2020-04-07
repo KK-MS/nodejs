@@ -25,5 +25,9 @@ v12.16.1
 ```console
 $ npm -v
 6.13.4
-`
+```
+
+## Examples
+* https://github.com/hicapacity/nodejs-examples
+  * Demo and slides: https://github.com/hicapacity/nodejs-examples/tree/master/20110831-node_introduction
 
