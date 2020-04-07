@@ -15,7 +15,9 @@
 * w3schools:
   * https://www.w3schools.com/nodejs/default.asp
   * Usage of npm: https://www.w3schools.com/nodejs/nodejs_npm.asp
-
+* Youtube:
+  * Node.js Crash Course: https://www.youtube.com/watch?v=fBNz5xF-Kx4&list=LLPD13vIreIABSUXunmRCTlA&index=4&t=0s
+    * Github: https://github.com/bradtraversy/node_crash_course.git
 ## Verify the installation of nodejs and npm
 
 ```console
@@ -28,6 +30,29 @@ $ npm -v
 ```
 
 ## Examples
-* https://github.com/hicapacity/nodejs-examples
-  * Demo and slides: https://github.com/hicapacity/nodejs-examples/tree/master/20110831-node_introduction
+
+### Console
+```console
+C:\Users\k.mayannavar>node
+Welcome to Node.js v12.16.1.
+Type ".help" for more information.
+> 1 + 1
+2
+> const i = 10
+undefined
+> i
+10
+> console.log(i)
+10
+undefined
+> function test(){return "test" + 10}
+undefined
+> test()
+'test10'
+> exit
+Uncaught ReferenceError: exit is not defined
+>
+(To exit, press ^C again or ^D or type .exit)
+>
+```
 
