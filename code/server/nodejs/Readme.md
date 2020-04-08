@@ -9,6 +9,9 @@
 * Github: https://github.com/nodejs/node
 ``
 ## Tutorial
+* Node.js documentation
+  * v12.16.2: https://nodejs.org/dist/latest-v12.x/docs/api/
+
 * Tutorialspoint:
   * https://www.tutorialspoint.com/nodejs/index.htm
   * https://www.tutorialspoint.com/nodejs/nodejs_npm.htm
@@ -30,6 +33,10 @@ $ npm -v
 ```
 
 ## Examples
+*  Simple knowledgebase app with Node.js, Express and MongoDB
+  * https://github.com/bradtraversy/nodekb
+* Building a simple REST API with NodeJS and Express.
+  * https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9
 
 ### Console
 ```console
