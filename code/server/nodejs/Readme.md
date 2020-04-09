@@ -21,6 +21,19 @@
 * Youtube:
   * Node.js Crash Course: https://www.youtube.com/watch?v=fBNz5xF-Kx4&list=LLPD13vIreIABSUXunmRCTlA&index=4&t=0s
     * Github: https://github.com/bradtraversy/node_crash_course.git
+* call a Python function from Node.js 
+  * https://stackoverflow.com/questions/23450534/how-to-call-a-python-function-from-node-js
+  * https://medium.com/swlh/run-python-script-from-node-js-and-send-data-to-browser-15677fcf199f
+  ```console
+  spawn('python', ['script1.py']);
+  ```
+  It is the same command if you wanted to write it in a shell to run the script1.py
+  ```console
+  python 'script1.py'
+  ```
+  more: check how python return use print to console and captured in node.js using stdout apis.
+* Express JS
+  * https://www.youtube.com/watch?v=L72fhGm1tfE
 ## Verify the installation of nodejs and npm
 
 ```console
