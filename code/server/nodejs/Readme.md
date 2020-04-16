@@ -50,6 +50,8 @@ $ npm -v
   * https://github.com/bradtraversy/nodekb
 * Building a simple REST API with NodeJS and Express.
   * https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9
+* shopping cart 
+  * https://githubg.com/gtsopour/nodejs-shopping-cart
 
 ### Console
 ```console
@@ -75,4 +77,7 @@ Uncaught ReferenceError: exit is not defined
 (To exit, press ^C again or ^D or type .exit)
 >
 ```
+
+### VS Code
+* https://code.visualstudio.com/docs/nodejs/nodejs-debugging
 
