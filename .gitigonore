@@ -1,0 +1,5 @@
+# igonore package-lock file, it is useful only when we need to install exact version.
+package-lock.json
+
+# locally installed package, we dont need to install.
+node_modules
