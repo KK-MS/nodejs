@@ -1,0 +1,19 @@
+{
+  "name": "express_pkg_test",
+  "version": "1.0.0",
+  "description": "Test express module package and its standalone app",
+  "bin": "src/index.js",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "jtest"
+  },
+  "author": "KK-MS",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
