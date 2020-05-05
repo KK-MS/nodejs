@@ -18,6 +18,7 @@ app.listen(port, () => {
 
 /* Reference:
  * https://auth0.com/blog/create-a-simple-and-stylish-node-express-app/
+ * https://auth0.com/blog/node-js-and-express-tutorial-building-and-securing-restful-apis/
  */
 
 /* Commands:
