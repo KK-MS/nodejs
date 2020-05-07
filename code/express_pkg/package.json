@@ -15,5 +15,10 @@
   },
   "dependencies": {
     "express": "^4.17.1"
+  },
+
+  "pkg": {
+    "scripts": "build/**/*.js",
+    "assets": "src/views/*"
   }
 }

@@ -9,7 +9,7 @@ const port = process.env.PORT || "3000";
 /**  * Routes Definitions  */
 app.get("/", (req, res) => {
   //   res.status(200).send("WHATABYTE: Food For Devs");
-  res.sendFile(path.join(__dirname +'/view/index.html'));
+  res.sendFile(path.join(__dirname +'/views/index.html'));
 });
 
 /**  * Server Activation  */
